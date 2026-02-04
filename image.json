@@ -1,0 +1,79 @@
+{
+  "Commercial": [
+    {
+      "id": "com-001",
+      "name": "Corporate Office",
+      "location": "Mumbai, India",
+      "image": "/Commercial/m1.jpg"
+    },
+    {
+      "id": "com-002",
+      "name": "Business Center",
+      "location": "Pune, India",
+      "image": "/Commercial/m2.jpg"
+    },
+    {
+      "id": "com-003",
+      "name": "Office Complex",
+      "location": "Bengaluru, India",
+      "image": "/Commercial/m3.jpg"
+    }
+  ],
+
+  "Hospitality": [
+    {
+      "id": "hos-001",
+      "name": "Luxury Hotel",
+      "location": "Goa, India",
+      "image": "/Hospitality/m1.jpg"
+    },
+    {
+      "id": "hos-002",
+      "name": "Resort Suite",
+      "location": "Kerala, India",
+      "image": "/Hospitality/m2.jpg"
+    },
+    {
+      "id": "hos-003",
+      "name": "Boutique Hotel",
+      "location": "Udaipur, India",
+      "image": "/Hospitality/m3.jpg"
+    }
+  ],
+
+  "Residential": [
+    {
+      "id": "res-001",
+      "name": "Modern Villa",
+      "location": "Delhi, India",
+      "image": "/Residential/m1.jpg"
+    },
+    {
+      "id": "res-002",
+      "name": "Apartment Block",
+      "location": "Noida, India",
+      "image": "/Residential/m2.jpg"
+    },
+    {
+      "id": "res-003",
+      "name": "Luxury Residence",
+      "location": "Gurgaon, India",
+      "image": "/Residential/m3.jpg"
+    }
+  ],
+
+  "Retail": [
+    {
+      "id": "ret-001",
+      "name": "Retail Showroom",
+      "location": "Mumbai, India",
+      "image": "/Retail/m1.jpg"
+    },
+    {
+      "id": "ret-002",
+      "name": "Shopping Store",
+      "location": "Indore, India",
+      "image": "/Retail/m2.jpg"
+    }
+  ]
+}
